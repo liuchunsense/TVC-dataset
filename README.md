@@ -1,7 +1,7 @@
 # TVC-dataset
 Traffic Video Captioning (TVC) dataset for training and testing video captioning methods for driving scenes
 
-![img](https://github.com/liuchunsense/UVSD/blob/master/UVSD_example.png)
+![img](https://github.com/liuchunsense/TVC-dataset/blob/main/imagedataset.png)
 
 ## What is TVC?
 
